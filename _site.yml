@@ -1,22 +1,49 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+name: "Camille J. Hochheimer, PhD"
+output_dir: "."
+navbar:
+  title: "Camille J. Hochheimer, PhD"
+  left:
+    - text: "Experience"
+      href: experience.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:camille.hochheimer@cuanschutz.edu
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?hl=en&user=YpCtXWAAAAAJ
+    - icon: fab fa-github fa-lg
+      href: http://github.com/camillejo
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/DocHoch19
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/camille-hochheimer-phd/
+output:
+  html_document:
+    theme: readable
+    css: 'styles.css'
 
-# Site Settings
-locale                   : "en-US"
-title                    : "Camille J. Hochheimer, PhD"
-title_separator          : "-"
-name                     : &name "Camille J. Hochheimer, PhD"
-description              : &description "Biostatistician"
-url                      : https://camillejo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "camillejo/camillejo.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add
+
+
+
+## https://jayrobwilliams.com/posts/2020/06/academic-website/
+# # Welcome to Jekyll!
+# #
+# # This config file is meant for settings that affect your entire site, values
+# # which you are expected to set up once and rarely need to edit after that.
+# # For technical reasons, this file is *NOT* reloaded automatically when you use
+# # `jekyll serve`. If you change this file, please restart the server process.
+# 
+# # Site Settings
+# locale                   : "en-US"
+# title                    : "Camille J. Hochheimer, PhD"
+# title_separator          : "-"
+# name                     : &name "Camille J. Hochheimer, PhD"
+# description              : &description "Biostatistician"
+# url                      : https://camillejo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# repository               : "camillejo/camillejo.github.io"
+# teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs              : false # true, false (default)
+# words_per_minute         : 160
+# future                   : true
+# read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+# talkmap_link             : false #change to true to add

@@ -1,0 +1,31 @@
+---
+title: "Experience"
+output: 
+  html_document
+---
+
+### The Center for Innovative Design and Analysis (CIDA)
+#### Research Associate, July 2021 - present
+
+
+
+### The University of Virginia (UVA) Department of Public Health Sciences
+#### Postdoctoral Research Associate, September 2019 - June 2021
+
+As a postdoctoral research associate under the mentorship of Dr. Sarah Ratcliffe, I continued my research modeling and simulating survey dropout while also focusing on the application and extension of functional data analysis methods. In this position, I provided statistical support to researchers in the UVA Health System primarily through the Center for Advanced Medical Analytics and also to researchers at the University of Pennsylvania School of Nursing. My collaborative projects included developing an early warning metric for respiratory distress and analyzing shared decision-making patterns in cancer patients participating in clinical trials. 
+
+
+
+
+### Virginia Commonwealth University (VCU) Department of Family Medicine and Population Health
+#### Graduate Research Assistant, January 2015 - May 2019
+
+As a member of the qualitative team within the Department of Family Medicine Research Team led by Dr. Alex Krist, I consulted and collaborated on a large range of projects, from quantifying missed well-child care visit, to summarizing characteristics of providers prescribing and patients receiving opioid prescriptions, to analyzing uptake of screening guidelines in primary care. I collaborated at each stage of the research process, gaining experience in project planning, grant writing, data management, analysis, and manuscript/poster preparation. In this role, I gained skills in SAS, SQL, and R. Hierarchical, longitudinal, and survival analyses characterize the majority of my analytical contributions while I also prepared figures and maps to visually accompany these results. 
+
+
+
+### VCU Department of Biostatistics
+#### Teaching Assistant, August 2014 - December 2014
+
+As a teaching assistant for the Graduate Research Methods I course, I held office hours to help students understand course material and successfully complete assignments. I was also responsible for grading assignments.
+
