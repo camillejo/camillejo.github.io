@@ -1,0 +1,5 @@
+name: "CJH-website"
+title: "Camille J. Hochheimer, PhD"
+output:
+  html_document:
+    theme: darkly
