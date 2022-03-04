@@ -5,6 +5,10 @@ navbar:
   left:
     - text: "Experience"
       href: experience.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"
+      href: software.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:camille.hochheimer@cuanschutz.edu
@@ -12,7 +16,6 @@ navbar:
       href: https://scholar.google.com/citations?hl=en&user=YpCtXWAAAAAJ
     - icon: ai-cv ai-lg
       href: ./files/C_Hochheimer_CV.pdf
-    - icon: fab fa-github fa-lg
     - icon: fab fa-github fa-lg
       href: http://github.com/camillejo
     - icon: fab fa-twitter fa-lg
