@@ -1,6 +1,8 @@
 ---
 title: "Software"
+permalink: /software/
 output: 
   html_document
 ---
 
+I developed the `cpsurvsim` `R` package to provide functionality for simluating time-to-event data from the exponential (or piecewise constant) hazard function and the Weibull hazard function using two different simulation methods (using the inverse CDF and a memoryless approach). You can find the package [on CRAN here](https://CRAN.R-project.org/package=cpsurvsim). My forthcoming paper in The R Journal compares the performance of these methods through a simulation study while encouraging users to determine which method is best for their data, as I found in my own research there are scenarios where the memoryless method generates data that more closely matches your simulation parameters, even though the inverse CDF approach appears to perform better overall in these simulations.

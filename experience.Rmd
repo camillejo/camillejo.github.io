@@ -1,5 +1,6 @@
 ---
 title: "Experience"
+permalink: /experience/
 output: 
   html_document
 ---
@@ -7,7 +8,7 @@ output:
 ### The Center for Innovative Design and Analysis (CIDA)
 #### Research Associate, July 2021 - present
 
-In my current faculty position at the Colorado School of Public Health, my research focus lies in collaborative work. I am the manager of CIDA's Consulting Center, where I oversee the intake and assignment of internal and external research projects requiring statistical expertise. In this role, I also supervise masters level statisticians and students, helping them develop their skills as collaborative statisticians working with real-life clients. Within the Department of Internal Medicine's Division of Gastroenterology and Hepatology, I lead the biostatistical support for the Gastroenterology Outcomes Research Group (GORG) as well as serve as the lead biostatistician on a grant comparing two sampling protocols for Barrett's Esophagus. I also serve as an analyst on two grants through the Department of Family Medicine, one comparing different modes of medication assisted treatment induction for opioid misuse disorder and another assessing the impact of a program empowering former smokers to help others in their network quit. 
+In my current faculty position at the Colorado School of Public Health, my research focus lies in collaborative work. I am the manager of CIDA's Consulting Center, where I oversee the intake and assignment of internal and external research projects requiring statistical expertise. In this role, I also supervise masters level statisticians and students, helping them develop their skills as collaborative statisticians working with real-life clients. Within the Department of Internal Medicine's Division of Gastroenterology and Hepatology, I lead the biostatistical support for the Gastroenterology Outcomes Research Group (GORG) as well as serve as the lead biostatistician on a grant comparing two sampling protocols for Barrett's Esophagus. I also serve as an analyst on two grants through the Department of Family Medicine, one comparing different modes of medication assisted treatment induction for opioid misuse disorder([The HOMER Study](https://medschool.cuanschutz.edu/homer)) and another assessing the impact of a program empowering former smokers to help others in their network quit. 
 
 
 ### The University of Virginia (UVA) Department of Public Health Sciences

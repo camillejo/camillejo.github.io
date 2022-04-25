@@ -1,7 +1,10 @@
 ---
 title: "Publications"
+permalink: /publications/
 output: 
   html_document
 ---
 
+For the most up-to-date list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=YpCtXWAAAAAJ).
 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F6754093%2Fcollections%2FAP63G2NL%2Fitems%3Fkey%3DcJKt5eMeM7vzKhnwSEBhMZJN%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
